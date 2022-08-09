@@ -32,7 +32,7 @@ This is where we start to explore the relationships between two variables and se
 
 This section is brief, I only went as many as three variables at a time since anything beyond that starts to look chaotic.
 
-## Conclusions - What are the answers to our questions?
+## Step 6 - Conclusions - What are the answers to our questions?
 
 - The profile of our average customer:
 Lives in Spain with Master’s degree, coupled up, in their 40s-70s, earns 35–68k per year, has no or one child
