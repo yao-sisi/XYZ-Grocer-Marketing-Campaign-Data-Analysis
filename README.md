@@ -35,6 +35,7 @@ This section is brief, I only went as many as three variables at a time since an
 ## Step 6 - Conclusions - What are the answers to our questions?
 
 - The profile of our average customer:
+
 Lives in Spain with Master’s degree, coupled up, in their 40s-70s, earns 35–68k per year, has no or one child
 
 - The most popular product types:
