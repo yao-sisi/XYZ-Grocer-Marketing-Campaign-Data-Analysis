@@ -1,4 +1,4 @@
-Data Analysis in SQL
+Data Analysis in MySQL
 
 ```
 /*
@@ -304,6 +304,8 @@ SELECT
   Complain,
   SUM(MntTotal) / COUNT(*) AS rev_per_cust
 FROM marketing_cleaned
+
+```
 WHERE Education = 'Master'
   AND Childhome = 0
   AND MaritalStatus = 'Coupled'
