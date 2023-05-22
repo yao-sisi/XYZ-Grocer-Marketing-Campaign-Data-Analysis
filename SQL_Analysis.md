@@ -1,6 +1,7 @@
 Data Analysis in MySQL
 
 ```
+
 /*
 Step 1 - data cleaning and preparation
 - Look for missing values
@@ -304,8 +305,6 @@ SELECT
   Complain,
   SUM(MntTotal) / COUNT(*) AS rev_per_cust
 FROM marketing_cleaned
-
-```
 WHERE Education = 'Master'
   AND Childhome = 0
   AND MaritalStatus = 'Coupled'
@@ -313,6 +312,7 @@ GROUP BY Complain
 ;
 
 -- Satisfied customers also tend to spend more (1,097 vs 608) than dissatisfied ones
+
 
 
 ```
